@@ -1,3 +1,6 @@
+
+DON'T BUILD i9300 WITH THIS TELEPHONY!
+
 This package contains classes used to manage a DataConnection.
 
 A criticial aspect of this class is that most objects in this
